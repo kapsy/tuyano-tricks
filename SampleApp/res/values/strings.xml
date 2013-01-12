@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">SampleApp</string>
+    <string name="hello_world">なんか寝れなくてなぁ</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sample_app">SampleApp</string>
+    <string name="mikes_string">なめてんのかコラ！</string>
+
+    <string name="init_msg">お名前をどうぞ。</string>
+    <string name="btn_label">クリック！</string>
+
+    <string name="check_label">チェックボックス</string>
+
+    <string name="radio1_label">ラジオボタンその１</string>
+	<string name="radio2_label">ラジオボタンその２</string>
+
+</resources>
