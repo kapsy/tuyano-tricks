@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">SampleAppDB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sample_app_db">SampleAppDB</string>
+
+    <string name="load_label">検索</string>
+    <string name="save_label">保存</string>
+
+</resources>

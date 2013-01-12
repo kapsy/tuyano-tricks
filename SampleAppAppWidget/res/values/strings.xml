@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">SampleAppAppWidget</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sample_app_app_widget">SampleAppAppWidget</string>
+
+    <string name="uranau">占う</string>
+    <string name="kyounounnsei">今日の運勢</string>
+
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">SampleAppCamera1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sample_app_camera1">SampleAppCamera1</string>
+
+</resources>

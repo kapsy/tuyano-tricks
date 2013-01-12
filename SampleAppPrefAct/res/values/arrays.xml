@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mylist">
+        <item>Hello</item>
+        <item>Welcome</item>
+        <item>Bye!</item>
+    </string-array>
+</resources>

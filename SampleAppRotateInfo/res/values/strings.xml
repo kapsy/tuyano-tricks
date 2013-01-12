@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">SampleAppRotateInfo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sample_app_rotate_info">SampleAppRotateInfo</string>
+    <string name="button">Button</string>
+
+</resources>

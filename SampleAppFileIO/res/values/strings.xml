@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">SampleAppFileIO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sample_app_file_io">SampleAppFileIO</string>
+
+    <string name="load_label">読み込み</string>
+    <string name="save_label">書き出し</string>
+
+</resources>

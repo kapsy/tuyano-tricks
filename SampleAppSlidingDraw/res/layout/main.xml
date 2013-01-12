@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello"
+        android:id="@+id/text"
+        />
+
+    <SlidingDrawer
+        android:id="@+id/slidingdrawer"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:handle="@+id/handle"
+        android:content="@+id/content">
+        <Button
+            android:id="@id/handle"
+            android:layout_width="100dip"
+            android:layout_height="50dip"
+            android:text="@string/drawer" />
+        <LinearLayout
+            android:id="@id/content"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#FFFFFF">
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="@string/sdrawer"/>
+        </LinearLayout>
+    </SlidingDrawer>
+
+</LinearLayout>

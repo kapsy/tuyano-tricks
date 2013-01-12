@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res/nz.kapsy.sampleappservice1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<TextView
+    android:id="@+id/TextView01"
+    android:text="@string/ok_button"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:textSize="20pt" />
+</LinearLayout>

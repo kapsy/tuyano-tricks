@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">SampleAppSlidingDraw</string>
+    <string name="drawer">Drawer</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sample_app_sliding_draw">SampleAppSlidingDraw</string>
+    <string name="hello">こんにちわ</string>
+    <string name="sdrawer">これは、スライディングドロワーのテストです。</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">SampleAppToast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sample_app_toast">SampleAppToast</string>
+
+</resources>
